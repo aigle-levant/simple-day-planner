@@ -1,2 +1,2 @@
-# simple-day-planner
-Just a simple day planner project made in Java
+# Day Planner
+Just a simple day planner project made in Java.
